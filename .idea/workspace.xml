@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f617d1f9-e9e6-4f11-aabe-b2df134dc1b3" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Xl20u7cxWjjAEQeQLq18aPa3bj" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\qqdata\1902945052\FileRecv\iot-solution-master\iot-solution-master\src\pages" />
+      <recent name="D:\qqdata\1902945052\FileRecv\iot-solution-master\iot-solution-master\src\uitils" />
+      <recent name="D:\qqdata\1902945052\FileRecv\iot-solution-master\iot-solution-master\src\pages\detail" />
+      <recent name="F:\工程实践\app_v2\src\pages\manage" />
+      <recent name="F:\app_v2\src\pages\discussion" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\app_v2\src\components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="npm.npm start" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f617d1f9-e9e6-4f11-aabe-b2df134dc1b3" name="Default Changelist" comment="" />
+      <created>1581596158944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581596158944</updated>
+      <workItem from="1581596160859" duration="1657000" />
+      <workItem from="1581606146774" duration="2097000" />
+      <workItem from="1581668362150" duration="1046000" />
+      <workItem from="1581690137196" duration="1588000" />
+      <workItem from="1581729216330" duration="30055000" />
+      <workItem from="1581814450576" duration="14572000" />
+      <workItem from="1581902884707" duration="21952000" />
+      <workItem from="1582009081776" duration="14967000" />
+      <workItem from="1582074059282" duration="17470000" />
+      <workItem from="1582287016589" duration="21836000" />
+      <workItem from="1582433070693" duration="25582000" />
+      <workItem from="1582505464444" duration="13040000" />
+      <workItem from="1582598617103" duration="8693000" />
+      <workItem from="1582703849416" duration="21176000" />
+      <workItem from="1582861266043" duration="18950000" />
+      <workItem from="1582947765349" duration="16417000" />
+      <workItem from="1583227984416" duration="603000" />
+      <workItem from="1583302903571" duration="15000" />
+      <workItem from="1584677634735" duration="620000" />
+      <workItem from="1584788853616" duration="12276000" />
+      <workItem from="1584969411118" duration="1290000" />
+      <workItem from="1585019509911" duration="6520000" />
+      <workItem from="1587981060323" duration="247000" />
+      <workItem from="1588476708664" duration="1346000" />
+      <workItem from="1588482636554" duration="49809000" />
+      <workItem from="1588848750423" duration="36000" />
+      <workItem from="1589455262784" duration="1300000" />
+      <workItem from="1589456615051" duration="28000" />
+      <workItem from="1589457551831" duration="303000" />
+      <workItem from="1589465193605" duration="426000" />
+      <workItem from="1589467285091" duration="972000" />
+      <workItem from="1589596949230" duration="6738000" />
+      <workItem from="1590287958486" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
